@@ -1,2 +1,2 @@
-# 02-PostServe
+# PostServe
 IK TechServe: Postcards application
